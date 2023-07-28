@@ -1,157 +1,157 @@
 {
-    "districts":[
-        {
-            "district": "Bandarban",
-            "subdistrict":[
-                "Ali Kadam Upazila",
-                "Bandarban Sadar Upazila",
-                "Lama Upazila",
-                "Naikhongchhari Upazila",
-                "Rowangchhari Upazila",
-                "Ruma Upazila",
-                "Thanchi Upazila"
-            ]
-        },
-        {
-            "district": "Brahmanbaria",
-            "subdistrict":[
-                "Brahmanbaria Sadar Upazila",
-                "Kasba Upazila",
-                "Akhaura Upazila",
-                "Ashuganj Upazila",
-                "Bancharampur Upazila",
-                "Bijoynagar Upazila",
-                "Nasirnagar Upazila",
-                "Nabinagar Upazila",
-                "Sarail Upazila"
-            ]
-        },
-        {
-            "district": "Chandpur",
-            "subdistrict":[
-                "Chandpur Sadar Upazila",
-                "Faridganj Upazila",
-                "Haimchar Upazila",
-                "Hajiganj Upazila",
-                "Kachua Upazila",
-                "Matlab Dakshin Upazila",
-                "Matlab Uttar Upazila",
-                "Shahrasti Upazila"
-            ]
-        },
-        {
-            "district": "Chittagong",
-            "subdistrict":[
-                "Anwara Upazila",
-                "Banshkhali Upazila",
-                "Boalkhali Upazila",
-                "Chandanaish Upazila",
-                "Fatikchhari Upazila",
-                "Hathazari Upazila",
-                "Karnaphuli Upazila",
-                "Lohagara Upazila",
-                "Mirsharai Upazila",
-                "Patiya Upazila",
-                "Rangunia Upazila",
-                "Raozan Upazila",
-                "Sandwip Upazila",
-                "Satkania Upazila",
-                "Sitakunda Upazila"
-            ]
-        },
-        {
-            "district": "Comilla",
-            "subdistrict":[
-                "Barura Upazila",
-                "Brahmanpara Upazila",
-                "Burichong Upazila",
-                "Comilla Sadar Upazila",
-                "Comilla Sadar Dakshin Upazila",
-                "Chandina Upazila",
-                "Chauddagram Upazila",
-                "Daudkandi Upazila",
-                "Debidwar Upazila",
-                "Homna Upazila",
-                "Laksam Upazila",
-                "Lalmai Upazila",
-                "Monohorgonj Upazila",
-                "Meghna Upazila",
-                "Muradnagar Upazila",
-                "Nangalkot Upazila",
-                "Titas Upazila"
-            ]
-        },
-        {
-            "district": "Cox's Bazar",
-            "subdistrict":[
-                "Chakaria Upazila",
-                "Cox's Bazar Sadar Upazila",
-                "Kutubdia Upazila",
-                "Maheshkhali Upazila",
-                "Ramu Upazila",
-                "Teknaf Upazila",
-                "Ukhia Upazila",
-                "Pekua Upazila",
-                "Eidgaon Upazila"
-            ]
-        },
-        {
-            "district": "Cox's Bazar",
-            "subdistrict":[
-                "Chakaria Upazila",
-                "Cox's Bazar Sadar Upazila",
-                "Kutubdia Upazila",
-                "Maheshkhali Upazila",
-                "Ramu Upazila",
-                "Teknaf Upazila",
-                "Ukhia Upazila",
-                "Pekua Upazila",
-                "Eidgaon Upazila"
-            ]
-        },
-        {
-            "district": "Feni",
-            "subdistrict":[
-                "Feni Sadar Upazila",
-                "Daganbhuiyan Upazila",
-                "Chhagalnaiya Upazila",
-                "Sonagazi Upazila",
-                "Parshuram Upazila",
-                "Fulgazi Upazila",
-                "Khagrachhari",
-                "Lakshmipur"
-            ]
-        },
-        {
-            "district": "Noakhali",
-            "subdistrict":[
-                "Senbagh Upazila",
-                "Begumganj Upazila",
-                "Chatkhil Upazila",
-                "Companiganj Upazila",
-                "Noakhali Sadar Upazila",
-                "Hatiya Upazila",
-                "Kabirhat Upazila",
-                "Sonaimuri Upazila",
-                "Suborno Char Upazila",
-                "Bhashan Char Upazila"
-            ]
-        },
-        {
-            "district": "Rangamati",
-            "subdistrict":[
-                "Rangamati Sadar Upazila",
-                "Belaichhari Upazila",
-                "Bagaichhari Upazila",
-                "Barkal Upazila",
-                "Juraichhari Upazila",
-                "Rajasthali Upazila",
-                "Kaptai Upazila",
-                "Langadu Upazila",
-                "Naniarchar Upazila",
-                "Kaukhali Upazila"
-            ]
-        }
-    ]
+  "districts":[
+    {
+      "district": "Bandarban",
+      "subdistrict":[
+        "Ali Kadam",
+        "Bandarban Sadar",
+        "Lama",
+        "Naikhongchhari",
+        "Rowangchhari  ",
+        "Ruma  ",
+        "Thanchi  "
+      ]
+    },
+    {
+      "district": "Brahmanbaria",
+      "subdistrict":[
+        "Brahmanbaria Sadar  ",
+        "Kasba  ",
+        "Akhaura  ",
+        "Ashuganj  ",
+        "Bancharampur  ",
+        "Bijoynagar  ",
+        "Nasirnagar  ",
+        "Nabinagar  ",
+        "Sarail  "
+      ]
+    },
+    {
+      "district": "Chandpur",
+      "subdistrict":[
+        "Chandpur Sadar  ",
+        "Faridganj  ",
+        "Haimchar  ",
+        "Hajiganj  ",
+        "Kachua  ",
+        "Matlab Dakshin  ",
+        "Matlab Uttar  ",
+        "Shahrasti  "
+      ]
+    },
+    {
+      "district": "Chittagong",
+      "subdistrict":[
+        "Anwara  ",
+        "Banshkhali  ",
+        "Boalkhali  ",
+        "Chandanaish  ",
+        "Fatikchhari  ",
+        "Hathazari  ",
+        "Karnaphuli  ",
+        "Lohagara  ",
+        "Mirsharai  ",
+        "Patiya  ",
+        "Rangunia  ",
+        "Raozan  ",
+        "Sandwip  ",
+        "Satkania  ",
+        "Sitakunda  "
+      ]
+    },
+    {
+      "district": "Comilla",
+      "subdistrict":[
+        "Barura  ",
+        "Brahmanpara  ",
+        "Burichong  ",
+        "Comilla Sadar  ",
+        "Comilla Sadar Dakshin  ",
+        "Chandina  ",
+        "Chauddagram  ",
+        "Daudkandi  ",
+        "Debidwar  ",
+        "Homna  ",
+        "Laksam  ",
+        "Lalmai  ",
+        "Monohorgonj  ",
+        "Meghna  ",
+        "Muradnagar  ",
+        "Nangalkot  ",
+        "Titas  "
+      ]
+    },
+    {
+      "district": "Cox's Bazar",
+      "subdistrict":[
+        "Chakaria  ",
+        "Cox's Bazar Sadar  ",
+        "Kutubdia  ",
+        "Maheshkhali  ",
+        "Ramu  ",
+        "Teknaf  ",
+        "Ukhia  ",
+        "Pekua  ",
+        "Eidgaon  "
+      ]
+    },
+    {
+      "district": "Cox's Bazar",
+      "subdistrict":[
+        "Chakaria  ",
+        "Cox's Bazar Sadar  ",
+        "Kutubdia  ",
+        "Maheshkhali  ",
+        "Ramu  ",
+        "Teknaf  ",
+        "Ukhia  ",
+        "Pekua  ",
+        "Eidgaon  "
+      ]
+    },
+    {
+      "district": "Feni",
+      "subdistrict":[
+        "Feni Sadar  ",
+        "Daganbhuiyan  ",
+        "Chhagalnaiya  ",
+        "Sonagazi  ",
+        "Parshuram  ",
+        "Fulgazi  ",
+        "Khagrachhari",
+        "Lakshmipur"
+      ]
+    },
+    {
+      "district": "Noakhali",
+      "subdistrict":[
+        "Senbagh  ",
+        "Begumganj  ",
+        "Chatkhil  ",
+        "Companiganj  ",
+        "Noakhali Sadar  ",
+        "Hatiya  ",
+        "Kabirhat  ",
+        "Sonaimuri  ",
+        "Suborno Char  ",
+        "Bhashan Char  "
+      ]
+    },
+    {
+      "district": "Rangamati",
+      "subdistrict":[
+        "Rangamati Sadar  ",
+        "Belaichhari  ",
+        "Bagaichhari  ",
+        "Barkal  ",
+        "Juraichhari  ",
+        "Rajasthali  ",
+        "Kaptai  ",
+        "Langadu  ",
+        "Naniarchar  ",
+        "Kaukhali  "
+      ]
+    }
+  ]
 }
     
